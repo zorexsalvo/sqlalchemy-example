@@ -23,3 +23,17 @@ for user in users:
     print(user.username)
 
 session.close()
+
+
+
+#    For creating users
+#
+#    ```
+#     user = User()
+#     user.id = 0
+#     user.username = 'zorexsalvo'
+#
+#     session.add(user)
+#     session.commit()
+#
+#    ```
